@@ -1,7 +1,7 @@
-This project is an E-learning platform developed by Smitesh Patil, Atharwa Khadse and vedant hiwarkar as a summer project .
+This project(DBATU Learingi platoform) is an E-learning platform developed by Smitesh Patil, Atharwa Khadse and vedant hiwarkar as a summer '22 project.
 
-We used for the front end : html , css , javascript and bootstrap (a framework) .
-for the back end we used : php and databases .
+for the front end we are using  : html , css , javascript and bootstrap.
+for the back: php and databases.
 
 In order for this website to work properly you need to  ( we will run it locally ): 
 1) Install a software that will run the php code : we propose WAMP or XAMPP 
